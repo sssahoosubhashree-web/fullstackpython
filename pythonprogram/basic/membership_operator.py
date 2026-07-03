@@ -1,0 +1,7 @@
+print("n" in "india")
+print("ndi" in "india")
+print("x" in "india")
+print("x" not in "india")
+print(10 in [5,7,10,12,34])
+print(30 in[5,7,10,12,34])
+print(30 not in [5,7,10,12,34])

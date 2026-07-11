@@ -1,6 +1,5 @@
 print("enter any number")
 n=int(input())
-i=1
 p=0
 dup1=n
 s=0

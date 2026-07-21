@@ -1,0 +1,12 @@
+def sical(p,r,t):
+	si=p*r*t/100
+	return si
+print("enter principal")
+p=float(input())
+print("enter rate")
+r=float(input())
+print("enter time")
+t=float(input())
+ans=sical(p,r,t)
+print("simple interest=",ans)
+
